@@ -1,0 +1,170 @@
+#EXTM3U
+
+#EXTINF:0,Dolce Sport 1 
+http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport/playlist.m3u8
+#EXTINF:0,Dolce Sport 2 
+http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport2/playlist.m3u8
+#EXTINF:0,Dolce Sport 3 
+http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport3/playlist.m3u8
+#EXTINF:0,Dolce Sport 4 
+http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport4/playlist.m3u8
+#EXTINF:0,Look Tv 
+http://178.21.120.198:1935/live3/_definst_/mp4:transilvanialook/playlist.m3u8
+#EXTINF:0,Look Plus 
+http://178.21.120.198:1935/live3/_definst_/mp4:transilvanialive/playlist.m3u8
+#EXTINF:0,Tvr 1 
+http://178.21.120.198:1935/live3/_definst_/mp4:tvr1/playlist.m3u8
+#EXTINF:0,Tvr 2 
+http://178.21.120.198:1935/live3/_definst_/mp4:tvr2/playlist.m3u8
+#EXTINF:0,Kanal D 
+http://178.21.120.198:1935/live3/_definst_/mp4:kanald/playlist.m3u8
+#EXTINF:0,National Tv 
+http://178.21.120.198:1935/live3/_definst_/mp4:nationaltv/playlist.m3u8
+#EXTINF:0,Tv H 
+http://178.21.120.198:1935/live3/_definst_/mp4:tvh/playlist.m3u8
+#EXTINF:0,Neptun Tv
+http://178.21.120.198:1935/live3/_definst_/mp4:neptuntv/playlist.m3u8
+#EXTINF:0,Tv 1000 
+http://178.21.120.198:1935/live3/_definst_/mp4:tv1000/playlist.m3u8
+#EXTINF:0,Axn 
+http://178.21.120.198:1935/live3/_definst_/mp4:axn/playlist.m3u8
+#EXTINF:0,Axn White 
+http://178.21.120.198:1935/live3/_definst_/mp4:axncrime/playlist.m3u8
+#EXTINF:0,Axn Black 
+http://178.21.120.198:1935/live3/_definst_/mp4:axnscifi/playlist.m3u8
+#EXTINF:0,Axn Spin 
+http://178.21.120.198:1935/live3/_definst_/mp4:axnspin/playlist.m3u8
+#EXTINF:0,Comedy Central
+http://178.21.120.198:1935/live3/_definst_/mp4:comedycentral/playlist.m3u8
+#EXTINF:0,Tcm (Offline) 
+http://178.21.120.198:1935/live3/_definst_/mp4:tcm/playlist.m3u8
+#EXTINF:0,Bollywood Tv HD 
+http://178.21.120.198:1935/live3/_definst_/mp4:bollywoodhd/playlist.m3u8
+#EXTINF:0,Bollywood Tv 
+http://178.21.120.198:1935/live3/_definst_/mp4:bollywoodtv/playlist.m3u8
+#EXTINF:0,Bollywood Film 
+http://178.21.120.198:1935/live3/_definst_/mp4:bollywoodfilm/playlist.m3u8
+#EXTINF:0,Bollywood Classic 
+http://178.21.120.198:1935/live3/_definst_/mp4:bollywoodclasic/playlist.m3u8
+#EXTINF:0,Film Box HD (Offline) 
+http://178.21.120.198:1935/live3/_definst_/mp4:filmboxhd/playlist.m3u8
+#EXTINF:0,Film Box (Offline) 
+http://178.21.120.198:1935/live3/_definst_/mp4:filmbox/playlist.m3u8
+#EXTINF:0,Film Box Family (Offline) 
+http://178.21.120.198:1935/live3/_definst_/mp4:filmboxfamily/playlist.m3u8
+#EXTINF:0,Film Box Extra 
+http://178.21.120.198:1935/live3/_definst_/mp4:filmboxextra/playlist.m3u8
+#EXTINF:0,Docu Box (Offline)
+http://178.21.120.198:1935/live3/_definst_/mp4:DocuBox/playlist.m3u8
+#EXTINF:0,Tlc (Offline) 
+http://178.21.120.198:1935/live3/_definst_/mp4:tlc/playlist.m3u8
+#EXTINF:0,Bbc Knowledge (Offline) 
+http://178.21.120.198:1935/live3/_definst_/mp4:bbcknowledge/playlist.m3u8
+#EXTINF:0,Viasat History 
+http://178.21.120.198:1935/live3/_definst_/mp4:history/playlist.m3u8
+#EXTINF:0,Viasat Explore 
+http://178.21.120.198:1935/live3/_definst_/mp4:explorer/playlist.m3u8
+#EXTINF:0,Viasat Nature 
+http://178.21.120.198:1935/live3/_definst_/mp4:nature/playlist.m3u8
+#EXTINF:0,Animal Planet 
+http://178.21.120.198:1935/live3/_definst_/mp4:animalplanet/playlist.m3u8
+#EXTINF:0,Discovery Channel (Offline) 
+http://178.21.120.198:1935/live3/_definst_/mp4:discovery/playlist.m3u8
+#EXTINF:0,Discovery World 
+http://178.21.120.198:1935/live3/_definst_/mp4:discoveryworld/playlist.m3u8
+#EXTINF:0,Discovery ID (Offline) 
+http://178.21.120.198:1935/live3/_definst_/mp4:discoveryinvestigations/playlist.m3u8
+#EXTINF:0,Discovery Science 
+http://178.21.120.198:1935/live3/_definst_/mp4:discoveryscience/playlist.m3u8
+#EXTINF:0,Travel Channel 
+http://178.21.120.198:1935/live3/_definst_/mp4:travelchannel/playlist.m3u8
+#EXTINF:0,Travel Mix 
+http://178.21.120.198:1935/live3/_definst_/mp4:travelmix/playlist.m3u8
+#EXTINF:0,Shorts Tv (Offline) 
+http://178.21.120.198:1935/live3/_definst_/mp4:shortstv/playlist.m3u8
+#EXTINF:0,Nick Jr 
+http://178.21.120.198:1935/live3/_definst_/mp4:nickjr/playlist.m3u8
+#EXTINF:0,Nickelodeon 
+http://178.21.120.198:1935/live3/_definst_/mp4:nickelodeon/playlist.m3u8
+#EXTINF:0,Boomerang (Offline) 
+http://178.21.120.198:1935/live3/_definst_/mp4:bomerang/playlist.m3u8
+#EXTINF:0,Cartoon Network (Offline) 
+http://178.21.120.198:1935/live3/_definst_/mp4:cartoon/playlist.m3u8
+#EXTINF:0,Disney Junior 
+http://178.21.120.198:1935/live3/_definst_/mp4:disneyjr/playlist.m3u8
+#EXTINF:0,Disney Channel 
+http://178.21.120.198:1935/live3/_definst_/mp4:disney/playlist.m3u8
+#EXTINF:0,Hit Music Channel 
+http://178.21.120.198:1935/live3/_definst_/mp4:hitmusicch/playlist.m3u8
+#EXTINF:0,1 Music Channel 
+http://178.21.120.198:1935/live3/_definst_/mp4:musicchannel/playlist.m3u8
+#EXTINF:0,Mooz HD (Offline) 
+http://178.21.120.198:1935/live3/_definst_/mp4:moozhd/playlist.m3u8
+#EXTINF:0,Mooz Ro (Offline)
+http://178.21.120.198:1935/live3/_definst_/mp4:moozro/playlist.m3u8
+#EXTINF:0,Mooz Hits (Offline) 
+http://178.21.120.198:1935/live3/_definst_/mp4:moozhits/playlist.m3u8
+#EXTINF:0,Mooz Dance 
+http://178.21.120.198:1935/live3/_definst_/mp4:moozdance/playlist.m3u8
+#EXTINF:0,Kiss Tv 
+http://178.21.120.198:1935/live3/_definst_/mp4:kiss/playlist.m3u8
+#EXTINF:0,Utv 
+http://178.21.120.198:1935/live3/_definst_/mp4:utv/playlist.m3u8
+#EXTINF:0,Taraf 
+http://178.21.120.198:1935/live3/_definst_/mp4:taraf/playlist.m3u8
+#EXTINF:0,Etno Tv 
+http://178.21.120.198:1935/live3/_definst_/mp4:etno/playlist.m3u8
+#EXTINF:0,Favorit 
+http://178.21.120.198:1935/live3/_definst_/mp4:favorit/playlist.m3u8
+#EXTINF:0,Inedit Tv 
+http://178.21.120.198:1935/live3/_definst_/mp4:inedittv/playlist.m3u8
+#EXTINF:0,N24 Plus 
+http://178.21.120.198:1935/live3/_definst_/mp4:n24/playlist.m3u8
+#EXTINF:0,Tvr Moldova 
+http://178.21.120.198:1935/live3/_definst_/mp4:tvrmoldova/playlist.m3u8
+#EXTINF:0,Tvr 3 
+http://178.21.120.198:1935/live3/_definst_/mp4:tvr3/playlist.m3u8
+#EXTINF:0,Tvr Int (Offline)
+http://178.21.120.198:1935/live3/_definst_/mp4:tvri/playlist.m3u8
+#EXTINF:0,B1 Tv 
+http://178.21.120.198:1935/live3/_definst_/mp4:b1/playlist.m3u8
+#EXTINF:0,Nasul Tv 
+http://178.21.120.198:1935/live3/_definst_/mp4:nasultv/playlist.m3u8
+#EXTINF:0,Digi 24 
+http://178.21.120.198:1935/live3/_definst_/mp4:digi24/playlist.m3u8
+#EXTINF:0,Realitatea Tv 
+http://178.21.120.198:1935/live3/_definst_/mp4:realitatea/playlist.m3u8
+#EXTINF:0,Romania Tv 
+http://178.21.120.198:1935/live3/_definst_/mp4:rtv/playlist.m3u8
+#EXTINF:0,Publika Tv 
+http://178.21.120.198:1935/live3/_definst_/mp4:publikatv/playlist.m3u8
+#EXTINF:0,Tv City 
+http://178.21.120.198:1935/live3/_definst_/mp4:citytv/playlist.m3u8
+#EXTINF:0,Tvr Cluj 
+http://178.21.120.198:1935/live3/_definst_/mp4:tvrcluj/playlist.m3u8
+#EXTINF:0,Tvr Iasi 
+http://178.21.120.198:1935/live3/_definst_/mp4:tvriasi/playlist.m3u8
+#EXTINF:0,Tvr Tg. Mures 
+http://178.21.120.198:1935/live3/_definst_/mp4:tvrmures/playlist.m3u8
+#EXTINF:0,Tvr Craiova 
+http://178.21.120.198:1935/live3/_definst_/mp4:tvrcraiova/playlist.m3u8
+#EXTINF:0,Tvr Timisoara 
+http://178.21.120.198:1935/live3/_definst_/mp4:tvrtimisoara/playlist.m3u8
+#EXTINF:0,Alfa si Omega 
+http://178.21.120.198:1935/live3/_definst_/mp4:alfatv/playlist.m3u8
+#EXTINF:0,Trinitas 
+http://178.21.120.198:1935/live3/_definst_/mp4:trinitas/playlist.m3u8
+#EXTINF:0,Speranta Tv 
+http://178.21.120.198:1935/live3/_definst_/mp4:sperantatv/playlist.m3u8
+#EXTINF:0,Credo Tv 
+http://178.21.120.198:1935/live3/_definst_/mp4:credotv/playlist.m3u8
+#EXTINF:0,Fashion Box (Offline) 
+http://178.21.120.198:1935/live3/_definst_/mp4:FashionBox/playlist.m3u8
+#EXTINF:0,Fashion Tv 
+http://178.21.120.198:1935/live3/_definst_/mp4:fashiontv/playlist.m3u8
+#EXTINF:0,France 24 
+http://178.21.120.198:1935/live3/_definst_/mp4:france24/playlist.m3u8
+#EXTINF:0,Tv 5 
+http://178.21.120.198:1935/live3/_definst_/mp4:tv5/playlist.m3u8
+#EXTINF:0,Dw 
+http://178.21.120.198:1935/live3/_definst_/mp4:dw/playlist.m3u8
